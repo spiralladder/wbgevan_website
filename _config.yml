@@ -28,9 +28,9 @@ twitter_username: spiralladder
 github_username:  spiralladder
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@latest"
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
