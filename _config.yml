@@ -28,10 +28,9 @@ twitter_username: spiralladder
 github_username:  spiralladder
 
 # Build settings
-<<<<<<< HEAD
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-=======
->>>>>>> 8d9fd1123140277689110bf7cd16d91936c87c2d
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
