@@ -22,8 +22,9 @@ title: Evan Green
 email: green.wb.evan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data science and statistics student at UCSB.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wbgevan_website" # the subpath of your site, e.g. /blog
+url: "https://spiralladder.github.io"
+ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spiralladder
 github_username:  spiralladder
 
