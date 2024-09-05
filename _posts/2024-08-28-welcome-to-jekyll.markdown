@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Starting my Website"
 date:   2024-08-28 13:04:29 -0700
 categories: jekyll update

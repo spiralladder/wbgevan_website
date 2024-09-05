@@ -7,13 +7,13 @@ author_profile: true
 layout: home
 ---
 
-# Evan WB Green
+
 
 ###### Pre-Statistics and Data Science
 
 ###### University of California, Santa Barbara
 
-###### green.wb.evan@gmail.com
+###### contact: green.wb.evan@gmail.com
 
 
 I am a Pre-Statistics and Data Science student at UCSB. Welcome to my homepage.
